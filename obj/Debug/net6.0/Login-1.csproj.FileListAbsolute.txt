@@ -1,0 +1,393 @@
+/Users/kp/Pojects/Login-1/bin/Debug/net6.0/appsettings.Development.json
+/Users/kp/Pojects/Login-1/bin/Debug/net6.0/appsettings.json
+/Users/kp/Pojects/Login-1/bin/Debug/net6.0/Login-1.staticwebassets.runtime.json
+/Users/kp/Pojects/Login-1/bin/Debug/net6.0/app.db
+/Users/kp/Pojects/Login-1/bin/Debug/net6.0/Login-1
+/Users/kp/Pojects/Login-1/bin/Debug/net6.0/Login-1.deps.json
+/Users/kp/Pojects/Login-1/bin/Debug/net6.0/Login-1.runtimeconfig.json
+/Users/kp/Pojects/Login-1/bin/Debug/net6.0/Login-1.dll
+/Users/kp/Pojects/Login-1/bin/Debug/net6.0/Login-1.pdb
+/Users/kp/Pojects/Login-1/bin/Debug/net6.0/Humanizer.dll
+/Users/kp/Pojects/Login-1/bin/Debug/net6.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+/Users/kp/Pojects/Login-1/bin/Debug/net6.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/Users/kp/Pojects/Login-1/bin/Debug/net6.0/Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+/Users/kp/Pojects/Login-1/bin/Debug/net6.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/Users/kp/Pojects/Login-1/bin/Debug/net6.0/Microsoft.AspNetCore.Identity.UI.dll
+/Users/kp/Pojects/Login-1/bin/Debug/net6.0/Microsoft.Data.Sqlite.dll
+/Users/kp/Pojects/Login-1/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/Users/kp/Pojects/Login-1/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/kp/Pojects/Login-1/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/kp/Pojects/Login-1/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/kp/Pojects/Login-1/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/kp/Pojects/Login-1/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/kp/Pojects/Login-1/bin/Debug/net6.0/Microsoft.Extensions.DependencyModel.dll
+/Users/kp/Pojects/Login-1/bin/Debug/net6.0/Microsoft.Extensions.FileProviders.Embedded.dll
+/Users/kp/Pojects/Login-1/bin/Debug/net6.0/Microsoft.Extensions.Identity.Core.dll
+/Users/kp/Pojects/Login-1/bin/Debug/net6.0/Microsoft.Extensions.Identity.Stores.dll
+/Users/kp/Pojects/Login-1/bin/Debug/net6.0/SQLitePCLRaw.batteries_v2.dll
+/Users/kp/Pojects/Login-1/bin/Debug/net6.0/SQLitePCLRaw.core.dll
+/Users/kp/Pojects/Login-1/bin/Debug/net6.0/SQLitePCLRaw.provider.e_sqlite3.dll
+/Users/kp/Pojects/Login-1/bin/Debug/net6.0/runtimes/alpine-x64/native/libe_sqlite3.so
+/Users/kp/Pojects/Login-1/bin/Debug/net6.0/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/kp/Pojects/Login-1/bin/Debug/net6.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/kp/Pojects/Login-1/bin/Debug/net6.0/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/kp/Pojects/Login-1/bin/Debug/net6.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/Users/kp/Pojects/Login-1/bin/Debug/net6.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/kp/Pojects/Login-1/bin/Debug/net6.0/runtimes/linux-s390x/native/libe_sqlite3.so
+/Users/kp/Pojects/Login-1/bin/Debug/net6.0/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/kp/Pojects/Login-1/bin/Debug/net6.0/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/kp/Pojects/Login-1/bin/Debug/net6.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+/Users/kp/Pojects/Login-1/bin/Debug/net6.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/kp/Pojects/Login-1/bin/Debug/net6.0/runtimes/win-arm/native/e_sqlite3.dll
+/Users/kp/Pojects/Login-1/bin/Debug/net6.0/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/kp/Pojects/Login-1/bin/Debug/net6.0/runtimes/win-x64/native/e_sqlite3.dll
+/Users/kp/Pojects/Login-1/bin/Debug/net6.0/runtimes/win-x86/native/e_sqlite3.dll
+/Users/kp/Pojects/Login-1/obj/Debug/net6.0/Login-1.csproj.AssemblyReference.cache
+/Users/kp/Pojects/Login-1/obj/Debug/net6.0/Login-1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kp/Pojects/Login-1/obj/Debug/net6.0/Login-1.AssemblyInfoInputs.cache
+/Users/kp/Pojects/Login-1/obj/Debug/net6.0/Login-1.AssemblyInfo.cs
+/Users/kp/Pojects/Login-1/obj/Debug/net6.0/Login-1.csproj.CoreCompileInputs.cache
+/Users/kp/Pojects/Login-1/obj/Debug/net6.0/Login-1.MvcApplicationPartsAssemblyInfo.cs
+/Users/kp/Pojects/Login-1/obj/Debug/net6.0/Login-1.MvcApplicationPartsAssemblyInfo.cache
+/Users/kp/Pojects/Login-1/obj/Debug/net6.0/Login-1.RazorAssemblyInfo.cache
+/Users/kp/Pojects/Login-1/obj/Debug/net6.0/Login-1.RazorAssemblyInfo.cs
+/Users/kp/Pojects/Login-1/obj/Debug/net6.0/staticwebassets.build.json
+/Users/kp/Pojects/Login-1/obj/Debug/net6.0/staticwebassets.development.json
+/Users/kp/Pojects/Login-1/obj/Debug/net6.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/kp/Pojects/Login-1/obj/Debug/net6.0/scopedcss/bundle/Login-1.styles.css
+/Users/kp/Pojects/Login-1/obj/Debug/net6.0/scopedcss/projectbundle/Login-1.bundle.scp.css
+/Users/kp/Pojects/Login-1/obj/Debug/net6.0/Login-1.csproj.CopyComplete
+/Users/kp/Pojects/Login-1/obj/Debug/net6.0/Login-1.dll
+/Users/kp/Pojects/Login-1/obj/Debug/net6.0/refint/Login-1.dll
+/Users/kp/Pojects/Login-1/obj/Debug/net6.0/Login-1.pdb
+/Users/kp/Pojects/Login-1/obj/Debug/net6.0/Login-1.genruntimeconfig.cache
+/Users/kp/Pojects/Login-1/obj/Debug/net6.0/ref/Login-1.dll
+/Users/kp/Desktop/Web-Server/Login-1/bin/Debug/net6.0/appsettings.Development.json
+/Users/kp/Desktop/Web-Server/Login-1/bin/Debug/net6.0/appsettings.json
+/Users/kp/Desktop/Web-Server/Login-1/bin/Debug/net6.0/app.db
+/Users/kp/Desktop/Web-Server/Login-1/bin/Debug/net6.0/Login-1.staticwebassets.runtime.json
+/Users/kp/Desktop/Web-Server/Login-1/bin/Debug/net6.0/Login-1
+/Users/kp/Desktop/Web-Server/Login-1/bin/Debug/net6.0/Login-1.deps.json
+/Users/kp/Desktop/Web-Server/Login-1/bin/Debug/net6.0/Login-1.runtimeconfig.json
+/Users/kp/Desktop/Web-Server/Login-1/bin/Debug/net6.0/Login-1.dll
+/Users/kp/Desktop/Web-Server/Login-1/bin/Debug/net6.0/Login-1.pdb
+/Users/kp/Desktop/Web-Server/Login-1/bin/Debug/net6.0/Humanizer.dll
+/Users/kp/Desktop/Web-Server/Login-1/bin/Debug/net6.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+/Users/kp/Desktop/Web-Server/Login-1/bin/Debug/net6.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/Users/kp/Desktop/Web-Server/Login-1/bin/Debug/net6.0/Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+/Users/kp/Desktop/Web-Server/Login-1/bin/Debug/net6.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/Users/kp/Desktop/Web-Server/Login-1/bin/Debug/net6.0/Microsoft.AspNetCore.Identity.UI.dll
+/Users/kp/Desktop/Web-Server/Login-1/bin/Debug/net6.0/Microsoft.Data.Sqlite.dll
+/Users/kp/Desktop/Web-Server/Login-1/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/Users/kp/Desktop/Web-Server/Login-1/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/kp/Desktop/Web-Server/Login-1/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/kp/Desktop/Web-Server/Login-1/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/kp/Desktop/Web-Server/Login-1/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/kp/Desktop/Web-Server/Login-1/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/kp/Desktop/Web-Server/Login-1/bin/Debug/net6.0/Microsoft.Extensions.DependencyModel.dll
+/Users/kp/Desktop/Web-Server/Login-1/bin/Debug/net6.0/Microsoft.Extensions.FileProviders.Embedded.dll
+/Users/kp/Desktop/Web-Server/Login-1/bin/Debug/net6.0/Microsoft.Extensions.Identity.Core.dll
+/Users/kp/Desktop/Web-Server/Login-1/bin/Debug/net6.0/Microsoft.Extensions.Identity.Stores.dll
+/Users/kp/Desktop/Web-Server/Login-1/bin/Debug/net6.0/SQLitePCLRaw.batteries_v2.dll
+/Users/kp/Desktop/Web-Server/Login-1/bin/Debug/net6.0/SQLitePCLRaw.core.dll
+/Users/kp/Desktop/Web-Server/Login-1/bin/Debug/net6.0/SQLitePCLRaw.provider.e_sqlite3.dll
+/Users/kp/Desktop/Web-Server/Login-1/bin/Debug/net6.0/runtimes/alpine-x64/native/libe_sqlite3.so
+/Users/kp/Desktop/Web-Server/Login-1/bin/Debug/net6.0/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/kp/Desktop/Web-Server/Login-1/bin/Debug/net6.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/kp/Desktop/Web-Server/Login-1/bin/Debug/net6.0/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/kp/Desktop/Web-Server/Login-1/bin/Debug/net6.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/Users/kp/Desktop/Web-Server/Login-1/bin/Debug/net6.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/kp/Desktop/Web-Server/Login-1/bin/Debug/net6.0/runtimes/linux-s390x/native/libe_sqlite3.so
+/Users/kp/Desktop/Web-Server/Login-1/bin/Debug/net6.0/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/kp/Desktop/Web-Server/Login-1/bin/Debug/net6.0/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/kp/Desktop/Web-Server/Login-1/bin/Debug/net6.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+/Users/kp/Desktop/Web-Server/Login-1/bin/Debug/net6.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/kp/Desktop/Web-Server/Login-1/bin/Debug/net6.0/runtimes/win-arm/native/e_sqlite3.dll
+/Users/kp/Desktop/Web-Server/Login-1/bin/Debug/net6.0/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/kp/Desktop/Web-Server/Login-1/bin/Debug/net6.0/runtimes/win-x64/native/e_sqlite3.dll
+/Users/kp/Desktop/Web-Server/Login-1/bin/Debug/net6.0/runtimes/win-x86/native/e_sqlite3.dll
+/Users/kp/Desktop/Web-Server/Login-1/obj/Debug/net6.0/Login-1.csproj.AssemblyReference.cache
+/Users/kp/Desktop/Web-Server/Login-1/obj/Debug/net6.0/Login-1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kp/Desktop/Web-Server/Login-1/obj/Debug/net6.0/Login-1.AssemblyInfoInputs.cache
+/Users/kp/Desktop/Web-Server/Login-1/obj/Debug/net6.0/Login-1.AssemblyInfo.cs
+/Users/kp/Desktop/Web-Server/Login-1/obj/Debug/net6.0/Login-1.csproj.CoreCompileInputs.cache
+/Users/kp/Desktop/Web-Server/Login-1/obj/Debug/net6.0/Login-1.MvcApplicationPartsAssemblyInfo.cs
+/Users/kp/Desktop/Web-Server/Login-1/obj/Debug/net6.0/Login-1.MvcApplicationPartsAssemblyInfo.cache
+/Users/kp/Desktop/Web-Server/Login-1/obj/Debug/net6.0/Login-1.RazorAssemblyInfo.cache
+/Users/kp/Desktop/Web-Server/Login-1/obj/Debug/net6.0/Login-1.RazorAssemblyInfo.cs
+/Users/kp/Desktop/Web-Server/Login-1/obj/Debug/net6.0/staticwebassets.build.json
+/Users/kp/Desktop/Web-Server/Login-1/obj/Debug/net6.0/staticwebassets.development.json
+/Users/kp/Desktop/Web-Server/Login-1/obj/Debug/net6.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/kp/Desktop/Web-Server/Login-1/obj/Debug/net6.0/scopedcss/bundle/Login-1.styles.css
+/Users/kp/Desktop/Web-Server/Login-1/obj/Debug/net6.0/scopedcss/projectbundle/Login-1.bundle.scp.css
+/Users/kp/Desktop/Web-Server/Login-1/obj/Debug/net6.0/Login-1.csproj.CopyComplete
+/Users/kp/Desktop/Web-Server/Login-1/obj/Debug/net6.0/Login-1.dll
+/Users/kp/Desktop/Web-Server/Login-1/obj/Debug/net6.0/refint/Login-1.dll
+/Users/kp/Desktop/Web-Server/Login-1/obj/Debug/net6.0/Login-1.pdb
+/Users/kp/Desktop/Web-Server/Login-1/obj/Debug/net6.0/Login-1.genruntimeconfig.cache
+/Users/kp/Desktop/Web-Server/Login-1/obj/Debug/net6.0/ref/Login-1.dll
+/Users/kp/Projects/WS-Final-Project/bin/Debug/net6.0/appsettings.Development.json
+/Users/kp/Projects/WS-Final-Project/bin/Debug/net6.0/appsettings.json
+/Users/kp/Projects/WS-Final-Project/bin/Debug/net6.0/app.db
+/Users/kp/Projects/WS-Final-Project/bin/Debug/net6.0/Login-1.staticwebassets.runtime.json
+/Users/kp/Projects/WS-Final-Project/bin/Debug/net6.0/Login-1
+/Users/kp/Projects/WS-Final-Project/bin/Debug/net6.0/Login-1.deps.json
+/Users/kp/Projects/WS-Final-Project/bin/Debug/net6.0/Login-1.runtimeconfig.json
+/Users/kp/Projects/WS-Final-Project/bin/Debug/net6.0/Login-1.dll
+/Users/kp/Projects/WS-Final-Project/bin/Debug/net6.0/Login-1.pdb
+/Users/kp/Projects/WS-Final-Project/bin/Debug/net6.0/Humanizer.dll
+/Users/kp/Projects/WS-Final-Project/bin/Debug/net6.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+/Users/kp/Projects/WS-Final-Project/bin/Debug/net6.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/Users/kp/Projects/WS-Final-Project/bin/Debug/net6.0/Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+/Users/kp/Projects/WS-Final-Project/bin/Debug/net6.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/Users/kp/Projects/WS-Final-Project/bin/Debug/net6.0/Microsoft.AspNetCore.Identity.UI.dll
+/Users/kp/Projects/WS-Final-Project/bin/Debug/net6.0/Microsoft.Data.Sqlite.dll
+/Users/kp/Projects/WS-Final-Project/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/Users/kp/Projects/WS-Final-Project/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/kp/Projects/WS-Final-Project/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/kp/Projects/WS-Final-Project/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/kp/Projects/WS-Final-Project/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/kp/Projects/WS-Final-Project/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/kp/Projects/WS-Final-Project/bin/Debug/net6.0/Microsoft.Extensions.DependencyModel.dll
+/Users/kp/Projects/WS-Final-Project/bin/Debug/net6.0/Microsoft.Extensions.FileProviders.Embedded.dll
+/Users/kp/Projects/WS-Final-Project/bin/Debug/net6.0/Microsoft.Extensions.Identity.Core.dll
+/Users/kp/Projects/WS-Final-Project/bin/Debug/net6.0/Microsoft.Extensions.Identity.Stores.dll
+/Users/kp/Projects/WS-Final-Project/bin/Debug/net6.0/SQLitePCLRaw.batteries_v2.dll
+/Users/kp/Projects/WS-Final-Project/bin/Debug/net6.0/SQLitePCLRaw.core.dll
+/Users/kp/Projects/WS-Final-Project/bin/Debug/net6.0/SQLitePCLRaw.provider.e_sqlite3.dll
+/Users/kp/Projects/WS-Final-Project/bin/Debug/net6.0/runtimes/alpine-x64/native/libe_sqlite3.so
+/Users/kp/Projects/WS-Final-Project/bin/Debug/net6.0/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/kp/Projects/WS-Final-Project/bin/Debug/net6.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/kp/Projects/WS-Final-Project/bin/Debug/net6.0/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/kp/Projects/WS-Final-Project/bin/Debug/net6.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/Users/kp/Projects/WS-Final-Project/bin/Debug/net6.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/kp/Projects/WS-Final-Project/bin/Debug/net6.0/runtimes/linux-s390x/native/libe_sqlite3.so
+/Users/kp/Projects/WS-Final-Project/bin/Debug/net6.0/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/kp/Projects/WS-Final-Project/bin/Debug/net6.0/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/kp/Projects/WS-Final-Project/bin/Debug/net6.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+/Users/kp/Projects/WS-Final-Project/bin/Debug/net6.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/kp/Projects/WS-Final-Project/bin/Debug/net6.0/runtimes/win-arm/native/e_sqlite3.dll
+/Users/kp/Projects/WS-Final-Project/bin/Debug/net6.0/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/kp/Projects/WS-Final-Project/bin/Debug/net6.0/runtimes/win-x64/native/e_sqlite3.dll
+/Users/kp/Projects/WS-Final-Project/bin/Debug/net6.0/runtimes/win-x86/native/e_sqlite3.dll
+/Users/kp/Projects/WS-Final-Project/obj/Debug/net6.0/Login-1.csproj.AssemblyReference.cache
+/Users/kp/Projects/WS-Final-Project/obj/Debug/net6.0/Login-1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kp/Projects/WS-Final-Project/obj/Debug/net6.0/Login-1.AssemblyInfoInputs.cache
+/Users/kp/Projects/WS-Final-Project/obj/Debug/net6.0/Login-1.AssemblyInfo.cs
+/Users/kp/Projects/WS-Final-Project/obj/Debug/net6.0/Login-1.csproj.CoreCompileInputs.cache
+/Users/kp/Projects/WS-Final-Project/obj/Debug/net6.0/Login-1.MvcApplicationPartsAssemblyInfo.cs
+/Users/kp/Projects/WS-Final-Project/obj/Debug/net6.0/Login-1.MvcApplicationPartsAssemblyInfo.cache
+/Users/kp/Projects/WS-Final-Project/obj/Debug/net6.0/Login-1.RazorAssemblyInfo.cache
+/Users/kp/Projects/WS-Final-Project/obj/Debug/net6.0/Login-1.RazorAssemblyInfo.cs
+/Users/kp/Projects/WS-Final-Project/obj/Debug/net6.0/staticwebassets.build.json
+/Users/kp/Projects/WS-Final-Project/obj/Debug/net6.0/staticwebassets.development.json
+/Users/kp/Projects/WS-Final-Project/obj/Debug/net6.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/kp/Projects/WS-Final-Project/obj/Debug/net6.0/scopedcss/bundle/Login-1.styles.css
+/Users/kp/Projects/WS-Final-Project/obj/Debug/net6.0/scopedcss/projectbundle/Login-1.bundle.scp.css
+/Users/kp/Projects/WS-Final-Project/obj/Debug/net6.0/Login-1.csproj.CopyComplete
+/Users/kp/Projects/WS-Final-Project/obj/Debug/net6.0/Login-1.dll
+/Users/kp/Projects/WS-Final-Project/obj/Debug/net6.0/refint/Login-1.dll
+/Users/kp/Projects/WS-Final-Project/obj/Debug/net6.0/Login-1.pdb
+/Users/kp/Projects/WS-Final-Project/obj/Debug/net6.0/Login-1.genruntimeconfig.cache
+/Users/kp/Projects/WS-Final-Project/obj/Debug/net6.0/ref/Login-1.dll
+C:/Users/Andre's PC/Downloads/WS-Final-Project (1)/WS-Final-Project/obj/Debug/net6.0/Login-1.csproj.AssemblyReference.cache
+C:/Users/Andre's PC/Downloads/WS-Final-Project (1)/WS-Final-Project/obj/Debug/net6.0/Login-1.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Andre's PC/Downloads/WS-Final-Project (1)/WS-Final-Project/obj/Debug/net6.0/Login-1.AssemblyInfoInputs.cache
+C:/Users/Andre's PC/Downloads/WS-Final-Project (1)/WS-Final-Project/obj/Debug/net6.0/Login-1.AssemblyInfo.cs
+C:/Users/Andre's PC/Downloads/WS-Final-Project (1)/WS-Final-Project/obj/Debug/net6.0/Login-1.csproj.CoreCompileInputs.cache
+C:/Users/Andre's PC/Downloads/WS-Final-Project (1)/WS-Final-Project/obj/Debug/net6.0/Login-1.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/Andre's PC/Downloads/WS-Final-Project (1)/WS-Final-Project/obj/Debug/net6.0/Login-1.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/Andre's PC/Downloads/WS-Final-Project (1)/WS-Final-Project/obj/Debug/net6.0/Login-1.RazorAssemblyInfo.cache
+C:/Users/Andre's PC/Downloads/WS-Final-Project (1)/WS-Final-Project/obj/Debug/net6.0/Login-1.RazorAssemblyInfo.cs
+C:/Users/ian_h/Downloads/WS-Final-Project (1)/WS-Final-Project (1)/WS-Final-Project/obj/Debug/net6.0/Login-1.csproj.AssemblyReference.cache
+C:/Users/ian_h/Downloads/WS-Final-Project (1)/WS-Final-Project (1)/WS-Final-Project/obj/Debug/net6.0/Login-1.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/ian_h/Downloads/WS-Final-Project (1)/WS-Final-Project (1)/WS-Final-Project/obj/Debug/net6.0/Login-1.AssemblyInfoInputs.cache
+C:/Users/ian_h/Downloads/WS-Final-Project (1)/WS-Final-Project (1)/WS-Final-Project/obj/Debug/net6.0/Login-1.AssemblyInfo.cs
+C:/Users/ian_h/Downloads/WS-Final-Project (1)/WS-Final-Project (1)/WS-Final-Project/obj/Debug/net6.0/Login-1.csproj.CoreCompileInputs.cache
+C:/Users/ian_h/Downloads/WS-Final-Project (1)/WS-Final-Project (1)/WS-Final-Project/obj/Debug/net6.0/Login-1.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/ian_h/Downloads/WS-Final-Project (1)/WS-Final-Project (1)/WS-Final-Project/obj/Debug/net6.0/Login-1.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/ian_h/Downloads/WS-Final-Project (1)/WS-Final-Project (1)/WS-Final-Project/obj/Debug/net6.0/Login-1.RazorAssemblyInfo.cache
+C:/Users/ian_h/Downloads/WS-Final-Project (1)/WS-Final-Project (1)/WS-Final-Project/obj/Debug/net6.0/Login-1.RazorAssemblyInfo.cs
+C:/Users/ian_h/Downloads/WS-Final-Project (1)/WS-Final-Project (1)/WS-Final-Project/bin/Debug/net6.0/appsettings.Development.json
+C:/Users/ian_h/Downloads/WS-Final-Project (1)/WS-Final-Project (1)/WS-Final-Project/bin/Debug/net6.0/appsettings.json
+C:/Users/ian_h/Downloads/WS-Final-Project (1)/WS-Final-Project (1)/WS-Final-Project/bin/Debug/net6.0/app.db
+C:/Users/ian_h/Downloads/WS-Final-Project (1)/WS-Final-Project (1)/WS-Final-Project/bin/Debug/net6.0/Login-1.staticwebassets.runtime.json
+C:/Users/ian_h/Downloads/WS-Final-Project (1)/WS-Final-Project (1)/WS-Final-Project/bin/Debug/net6.0/Login-1.exe
+C:/Users/ian_h/Downloads/WS-Final-Project (1)/WS-Final-Project (1)/WS-Final-Project/bin/Debug/net6.0/Login-1.deps.json
+C:/Users/ian_h/Downloads/WS-Final-Project (1)/WS-Final-Project (1)/WS-Final-Project/bin/Debug/net6.0/Login-1.runtimeconfig.json
+C:/Users/ian_h/Downloads/WS-Final-Project (1)/WS-Final-Project (1)/WS-Final-Project/bin/Debug/net6.0/Login-1.dll
+C:/Users/ian_h/Downloads/WS-Final-Project (1)/WS-Final-Project (1)/WS-Final-Project/bin/Debug/net6.0/Login-1.pdb
+C:/Users/ian_h/Downloads/WS-Final-Project (1)/WS-Final-Project (1)/WS-Final-Project/bin/Debug/net6.0/Humanizer.dll
+C:/Users/ian_h/Downloads/WS-Final-Project (1)/WS-Final-Project (1)/WS-Final-Project/bin/Debug/net6.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+C:/Users/ian_h/Downloads/WS-Final-Project (1)/WS-Final-Project (1)/WS-Final-Project/bin/Debug/net6.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:/Users/ian_h/Downloads/WS-Final-Project (1)/WS-Final-Project (1)/WS-Final-Project/bin/Debug/net6.0/Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:/Users/ian_h/Downloads/WS-Final-Project (1)/WS-Final-Project (1)/WS-Final-Project/bin/Debug/net6.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:/Users/ian_h/Downloads/WS-Final-Project (1)/WS-Final-Project (1)/WS-Final-Project/bin/Debug/net6.0/Microsoft.AspNetCore.Identity.UI.dll
+C:/Users/ian_h/Downloads/WS-Final-Project (1)/WS-Final-Project (1)/WS-Final-Project/bin/Debug/net6.0/Microsoft.Data.Sqlite.dll
+C:/Users/ian_h/Downloads/WS-Final-Project (1)/WS-Final-Project (1)/WS-Final-Project/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/ian_h/Downloads/WS-Final-Project (1)/WS-Final-Project (1)/WS-Final-Project/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/ian_h/Downloads/WS-Final-Project (1)/WS-Final-Project (1)/WS-Final-Project/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/ian_h/Downloads/WS-Final-Project (1)/WS-Final-Project (1)/WS-Final-Project/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/ian_h/Downloads/WS-Final-Project (1)/WS-Final-Project (1)/WS-Final-Project/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+C:/Users/ian_h/Downloads/WS-Final-Project (1)/WS-Final-Project (1)/WS-Final-Project/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+C:/Users/ian_h/Downloads/WS-Final-Project (1)/WS-Final-Project (1)/WS-Final-Project/bin/Debug/net6.0/Microsoft.Extensions.DependencyModel.dll
+C:/Users/ian_h/Downloads/WS-Final-Project (1)/WS-Final-Project (1)/WS-Final-Project/bin/Debug/net6.0/Microsoft.Extensions.FileProviders.Embedded.dll
+C:/Users/ian_h/Downloads/WS-Final-Project (1)/WS-Final-Project (1)/WS-Final-Project/bin/Debug/net6.0/Microsoft.Extensions.Identity.Core.dll
+C:/Users/ian_h/Downloads/WS-Final-Project (1)/WS-Final-Project (1)/WS-Final-Project/bin/Debug/net6.0/Microsoft.Extensions.Identity.Stores.dll
+C:/Users/ian_h/Downloads/WS-Final-Project (1)/WS-Final-Project (1)/WS-Final-Project/bin/Debug/net6.0/SQLitePCLRaw.batteries_v2.dll
+C:/Users/ian_h/Downloads/WS-Final-Project (1)/WS-Final-Project (1)/WS-Final-Project/bin/Debug/net6.0/SQLitePCLRaw.core.dll
+C:/Users/ian_h/Downloads/WS-Final-Project (1)/WS-Final-Project (1)/WS-Final-Project/bin/Debug/net6.0/SQLitePCLRaw.provider.e_sqlite3.dll
+C:/Users/ian_h/Downloads/WS-Final-Project (1)/WS-Final-Project (1)/WS-Final-Project/bin/Debug/net6.0/runtimes/alpine-x64/native/libe_sqlite3.so
+C:/Users/ian_h/Downloads/WS-Final-Project (1)/WS-Final-Project (1)/WS-Final-Project/bin/Debug/net6.0/runtimes/linux-arm/native/libe_sqlite3.so
+C:/Users/ian_h/Downloads/WS-Final-Project (1)/WS-Final-Project (1)/WS-Final-Project/bin/Debug/net6.0/runtimes/linux-arm64/native/libe_sqlite3.so
+C:/Users/ian_h/Downloads/WS-Final-Project (1)/WS-Final-Project (1)/WS-Final-Project/bin/Debug/net6.0/runtimes/linux-armel/native/libe_sqlite3.so
+C:/Users/ian_h/Downloads/WS-Final-Project (1)/WS-Final-Project (1)/WS-Final-Project/bin/Debug/net6.0/runtimes/linux-mips64/native/libe_sqlite3.so
+C:/Users/ian_h/Downloads/WS-Final-Project (1)/WS-Final-Project (1)/WS-Final-Project/bin/Debug/net6.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+C:/Users/ian_h/Downloads/WS-Final-Project (1)/WS-Final-Project (1)/WS-Final-Project/bin/Debug/net6.0/runtimes/linux-s390x/native/libe_sqlite3.so
+C:/Users/ian_h/Downloads/WS-Final-Project (1)/WS-Final-Project (1)/WS-Final-Project/bin/Debug/net6.0/runtimes/linux-x64/native/libe_sqlite3.so
+C:/Users/ian_h/Downloads/WS-Final-Project (1)/WS-Final-Project (1)/WS-Final-Project/bin/Debug/net6.0/runtimes/linux-x86/native/libe_sqlite3.so
+C:/Users/ian_h/Downloads/WS-Final-Project (1)/WS-Final-Project (1)/WS-Final-Project/bin/Debug/net6.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+C:/Users/ian_h/Downloads/WS-Final-Project (1)/WS-Final-Project (1)/WS-Final-Project/bin/Debug/net6.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+C:/Users/ian_h/Downloads/WS-Final-Project (1)/WS-Final-Project (1)/WS-Final-Project/bin/Debug/net6.0/runtimes/win-arm/native/e_sqlite3.dll
+C:/Users/ian_h/Downloads/WS-Final-Project (1)/WS-Final-Project (1)/WS-Final-Project/bin/Debug/net6.0/runtimes/win-arm64/native/e_sqlite3.dll
+C:/Users/ian_h/Downloads/WS-Final-Project (1)/WS-Final-Project (1)/WS-Final-Project/bin/Debug/net6.0/runtimes/win-x64/native/e_sqlite3.dll
+C:/Users/ian_h/Downloads/WS-Final-Project (1)/WS-Final-Project (1)/WS-Final-Project/bin/Debug/net6.0/runtimes/win-x86/native/e_sqlite3.dll
+C:/Users/ian_h/Downloads/WS-Final-Project (1)/WS-Final-Project (1)/WS-Final-Project/obj/Debug/net6.0/staticwebassets.build.json
+C:/Users/ian_h/Downloads/WS-Final-Project (1)/WS-Final-Project (1)/WS-Final-Project/obj/Debug/net6.0/staticwebassets.development.json
+C:/Users/ian_h/Downloads/WS-Final-Project (1)/WS-Final-Project (1)/WS-Final-Project/obj/Debug/net6.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+C:/Users/ian_h/Downloads/WS-Final-Project (1)/WS-Final-Project (1)/WS-Final-Project/obj/Debug/net6.0/scopedcss/bundle/Login-1.styles.css
+C:/Users/ian_h/Downloads/WS-Final-Project (1)/WS-Final-Project (1)/WS-Final-Project/obj/Debug/net6.0/scopedcss/projectbundle/Login-1.bundle.scp.css
+C:/Users/ian_h/Downloads/WS-Final-Project (1)/WS-Final-Project (1)/WS-Final-Project/obj/Debug/net6.0/Login-1.csproj.CopyComplete
+C:/Users/ian_h/Downloads/WS-Final-Project (1)/WS-Final-Project (1)/WS-Final-Project/obj/Debug/net6.0/Login-1.dll
+C:/Users/ian_h/Downloads/WS-Final-Project (1)/WS-Final-Project (1)/WS-Final-Project/obj/Debug/net6.0/refint/Login-1.dll
+C:/Users/ian_h/Downloads/WS-Final-Project (1)/WS-Final-Project (1)/WS-Final-Project/obj/Debug/net6.0/Login-1.pdb
+C:/Users/ian_h/Downloads/WS-Final-Project (1)/WS-Final-Project (1)/WS-Final-Project/obj/Debug/net6.0/Login-1.genruntimeconfig.cache
+C:/Users/ian_h/Downloads/WS-Final-Project (1)/WS-Final-Project (1)/WS-Final-Project/obj/Debug/net6.0/ref/Login-1.dll
+/Users/kp/Downloads/WS-Final-Project (1)/WS-Final-Project (1)/WS-Final-Project/bin/Debug/net6.0/appsettings.Development.json
+/Users/kp/Downloads/WS-Final-Project (1)/WS-Final-Project (1)/WS-Final-Project/bin/Debug/net6.0/appsettings.json
+/Users/kp/Downloads/WS-Final-Project (1)/WS-Final-Project (1)/WS-Final-Project/bin/Debug/net6.0/app.db
+/Users/kp/Downloads/WS-Final-Project (1)/WS-Final-Project (1)/WS-Final-Project/bin/Debug/net6.0/Login-1.staticwebassets.runtime.json
+/Users/kp/Downloads/WS-Final-Project (1)/WS-Final-Project (1)/WS-Final-Project/bin/Debug/net6.0/Login-1
+/Users/kp/Downloads/WS-Final-Project (1)/WS-Final-Project (1)/WS-Final-Project/bin/Debug/net6.0/Login-1.deps.json
+/Users/kp/Downloads/WS-Final-Project (1)/WS-Final-Project (1)/WS-Final-Project/bin/Debug/net6.0/Login-1.runtimeconfig.json
+/Users/kp/Downloads/WS-Final-Project (1)/WS-Final-Project (1)/WS-Final-Project/bin/Debug/net6.0/Login-1.dll
+/Users/kp/Downloads/WS-Final-Project (1)/WS-Final-Project (1)/WS-Final-Project/bin/Debug/net6.0/Login-1.pdb
+/Users/kp/Downloads/WS-Final-Project (1)/WS-Final-Project (1)/WS-Final-Project/bin/Debug/net6.0/Humanizer.dll
+/Users/kp/Downloads/WS-Final-Project (1)/WS-Final-Project (1)/WS-Final-Project/bin/Debug/net6.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+/Users/kp/Downloads/WS-Final-Project (1)/WS-Final-Project (1)/WS-Final-Project/bin/Debug/net6.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/Users/kp/Downloads/WS-Final-Project (1)/WS-Final-Project (1)/WS-Final-Project/bin/Debug/net6.0/Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+/Users/kp/Downloads/WS-Final-Project (1)/WS-Final-Project (1)/WS-Final-Project/bin/Debug/net6.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/Users/kp/Downloads/WS-Final-Project (1)/WS-Final-Project (1)/WS-Final-Project/bin/Debug/net6.0/Microsoft.AspNetCore.Identity.UI.dll
+/Users/kp/Downloads/WS-Final-Project (1)/WS-Final-Project (1)/WS-Final-Project/bin/Debug/net6.0/Microsoft.Data.Sqlite.dll
+/Users/kp/Downloads/WS-Final-Project (1)/WS-Final-Project (1)/WS-Final-Project/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/Users/kp/Downloads/WS-Final-Project (1)/WS-Final-Project (1)/WS-Final-Project/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/kp/Downloads/WS-Final-Project (1)/WS-Final-Project (1)/WS-Final-Project/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/kp/Downloads/WS-Final-Project (1)/WS-Final-Project (1)/WS-Final-Project/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/kp/Downloads/WS-Final-Project (1)/WS-Final-Project (1)/WS-Final-Project/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/kp/Downloads/WS-Final-Project (1)/WS-Final-Project (1)/WS-Final-Project/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/kp/Downloads/WS-Final-Project (1)/WS-Final-Project (1)/WS-Final-Project/bin/Debug/net6.0/Microsoft.Extensions.DependencyModel.dll
+/Users/kp/Downloads/WS-Final-Project (1)/WS-Final-Project (1)/WS-Final-Project/bin/Debug/net6.0/Microsoft.Extensions.FileProviders.Embedded.dll
+/Users/kp/Downloads/WS-Final-Project (1)/WS-Final-Project (1)/WS-Final-Project/bin/Debug/net6.0/Microsoft.Extensions.Identity.Core.dll
+/Users/kp/Downloads/WS-Final-Project (1)/WS-Final-Project (1)/WS-Final-Project/bin/Debug/net6.0/Microsoft.Extensions.Identity.Stores.dll
+/Users/kp/Downloads/WS-Final-Project (1)/WS-Final-Project (1)/WS-Final-Project/bin/Debug/net6.0/SQLitePCLRaw.batteries_v2.dll
+/Users/kp/Downloads/WS-Final-Project (1)/WS-Final-Project (1)/WS-Final-Project/bin/Debug/net6.0/SQLitePCLRaw.core.dll
+/Users/kp/Downloads/WS-Final-Project (1)/WS-Final-Project (1)/WS-Final-Project/bin/Debug/net6.0/SQLitePCLRaw.provider.e_sqlite3.dll
+/Users/kp/Downloads/WS-Final-Project (1)/WS-Final-Project (1)/WS-Final-Project/bin/Debug/net6.0/runtimes/alpine-x64/native/libe_sqlite3.so
+/Users/kp/Downloads/WS-Final-Project (1)/WS-Final-Project (1)/WS-Final-Project/bin/Debug/net6.0/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/kp/Downloads/WS-Final-Project (1)/WS-Final-Project (1)/WS-Final-Project/bin/Debug/net6.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/kp/Downloads/WS-Final-Project (1)/WS-Final-Project (1)/WS-Final-Project/bin/Debug/net6.0/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/kp/Downloads/WS-Final-Project (1)/WS-Final-Project (1)/WS-Final-Project/bin/Debug/net6.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/Users/kp/Downloads/WS-Final-Project (1)/WS-Final-Project (1)/WS-Final-Project/bin/Debug/net6.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/kp/Downloads/WS-Final-Project (1)/WS-Final-Project (1)/WS-Final-Project/bin/Debug/net6.0/runtimes/linux-s390x/native/libe_sqlite3.so
+/Users/kp/Downloads/WS-Final-Project (1)/WS-Final-Project (1)/WS-Final-Project/bin/Debug/net6.0/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/kp/Downloads/WS-Final-Project (1)/WS-Final-Project (1)/WS-Final-Project/bin/Debug/net6.0/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/kp/Downloads/WS-Final-Project (1)/WS-Final-Project (1)/WS-Final-Project/bin/Debug/net6.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+/Users/kp/Downloads/WS-Final-Project (1)/WS-Final-Project (1)/WS-Final-Project/bin/Debug/net6.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/kp/Downloads/WS-Final-Project (1)/WS-Final-Project (1)/WS-Final-Project/bin/Debug/net6.0/runtimes/win-arm/native/e_sqlite3.dll
+/Users/kp/Downloads/WS-Final-Project (1)/WS-Final-Project (1)/WS-Final-Project/bin/Debug/net6.0/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/kp/Downloads/WS-Final-Project (1)/WS-Final-Project (1)/WS-Final-Project/bin/Debug/net6.0/runtimes/win-x64/native/e_sqlite3.dll
+/Users/kp/Downloads/WS-Final-Project (1)/WS-Final-Project (1)/WS-Final-Project/bin/Debug/net6.0/runtimes/win-x86/native/e_sqlite3.dll
+/Users/kp/Downloads/WS-Final-Project (1)/WS-Final-Project (1)/WS-Final-Project/obj/Debug/net6.0/Login-1.csproj.AssemblyReference.cache
+/Users/kp/Downloads/WS-Final-Project (1)/WS-Final-Project (1)/WS-Final-Project/obj/Debug/net6.0/Login-1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kp/Downloads/WS-Final-Project (1)/WS-Final-Project (1)/WS-Final-Project/obj/Debug/net6.0/Login-1.AssemblyInfoInputs.cache
+/Users/kp/Downloads/WS-Final-Project (1)/WS-Final-Project (1)/WS-Final-Project/obj/Debug/net6.0/Login-1.AssemblyInfo.cs
+/Users/kp/Downloads/WS-Final-Project (1)/WS-Final-Project (1)/WS-Final-Project/obj/Debug/net6.0/Login-1.csproj.CoreCompileInputs.cache
+/Users/kp/Downloads/WS-Final-Project (1)/WS-Final-Project (1)/WS-Final-Project/obj/Debug/net6.0/Login-1.MvcApplicationPartsAssemblyInfo.cs
+/Users/kp/Downloads/WS-Final-Project (1)/WS-Final-Project (1)/WS-Final-Project/obj/Debug/net6.0/Login-1.MvcApplicationPartsAssemblyInfo.cache
+/Users/kp/Downloads/WS-Final-Project (1)/WS-Final-Project (1)/WS-Final-Project/obj/Debug/net6.0/Login-1.RazorAssemblyInfo.cache
+/Users/kp/Downloads/WS-Final-Project (1)/WS-Final-Project (1)/WS-Final-Project/obj/Debug/net6.0/Login-1.RazorAssemblyInfo.cs
+/Users/kp/Downloads/WS-Final-Project (1)/WS-Final-Project (1)/WS-Final-Project/obj/Debug/net6.0/staticwebassets.build.json
+/Users/kp/Downloads/WS-Final-Project (1)/WS-Final-Project (1)/WS-Final-Project/obj/Debug/net6.0/staticwebassets.development.json
+/Users/kp/Downloads/WS-Final-Project (1)/WS-Final-Project (1)/WS-Final-Project/obj/Debug/net6.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/kp/Downloads/WS-Final-Project (1)/WS-Final-Project (1)/WS-Final-Project/obj/Debug/net6.0/scopedcss/bundle/Login-1.styles.css
+/Users/kp/Downloads/WS-Final-Project (1)/WS-Final-Project (1)/WS-Final-Project/obj/Debug/net6.0/scopedcss/projectbundle/Login-1.bundle.scp.css
+/Users/kp/Downloads/WS-Final-Project (1)/WS-Final-Project (1)/WS-Final-Project/obj/Debug/net6.0/Login-1.csproj.CopyComplete
+/Users/kp/Downloads/WS-Final-Project (1)/WS-Final-Project (1)/WS-Final-Project/obj/Debug/net6.0/Login-1.dll
+/Users/kp/Downloads/WS-Final-Project (1)/WS-Final-Project (1)/WS-Final-Project/obj/Debug/net6.0/refint/Login-1.dll
+/Users/kp/Downloads/WS-Final-Project (1)/WS-Final-Project (1)/WS-Final-Project/obj/Debug/net6.0/Login-1.pdb
+/Users/kp/Downloads/WS-Final-Project (1)/WS-Final-Project (1)/WS-Final-Project/obj/Debug/net6.0/Login-1.genruntimeconfig.cache
+/Users/kp/Downloads/WS-Final-Project (1)/WS-Final-Project (1)/WS-Final-Project/obj/Debug/net6.0/ref/Login-1.dll
+/Users/kp/Downloads/WS-Final-Project (1)/WS-Final-Project/bin/Debug/net6.0/appsettings.Development.json
+/Users/kp/Downloads/WS-Final-Project (1)/WS-Final-Project/bin/Debug/net6.0/appsettings.json
+/Users/kp/Downloads/WS-Final-Project (1)/WS-Final-Project/bin/Debug/net6.0/app.db
+/Users/kp/Downloads/WS-Final-Project (1)/WS-Final-Project/bin/Debug/net6.0/Login-1.staticwebassets.runtime.json
+/Users/kp/Downloads/WS-Final-Project (1)/WS-Final-Project/bin/Debug/net6.0/Login-1
+/Users/kp/Downloads/WS-Final-Project (1)/WS-Final-Project/bin/Debug/net6.0/Login-1.deps.json
+/Users/kp/Downloads/WS-Final-Project (1)/WS-Final-Project/bin/Debug/net6.0/Login-1.runtimeconfig.json
+/Users/kp/Downloads/WS-Final-Project (1)/WS-Final-Project/bin/Debug/net6.0/Login-1.dll
+/Users/kp/Downloads/WS-Final-Project (1)/WS-Final-Project/bin/Debug/net6.0/Login-1.pdb
+/Users/kp/Downloads/WS-Final-Project (1)/WS-Final-Project/bin/Debug/net6.0/Humanizer.dll
+/Users/kp/Downloads/WS-Final-Project (1)/WS-Final-Project/bin/Debug/net6.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+/Users/kp/Downloads/WS-Final-Project (1)/WS-Final-Project/bin/Debug/net6.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/Users/kp/Downloads/WS-Final-Project (1)/WS-Final-Project/bin/Debug/net6.0/Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+/Users/kp/Downloads/WS-Final-Project (1)/WS-Final-Project/bin/Debug/net6.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/Users/kp/Downloads/WS-Final-Project (1)/WS-Final-Project/bin/Debug/net6.0/Microsoft.AspNetCore.Identity.UI.dll
+/Users/kp/Downloads/WS-Final-Project (1)/WS-Final-Project/bin/Debug/net6.0/Microsoft.Data.Sqlite.dll
+/Users/kp/Downloads/WS-Final-Project (1)/WS-Final-Project/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/Users/kp/Downloads/WS-Final-Project (1)/WS-Final-Project/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/kp/Downloads/WS-Final-Project (1)/WS-Final-Project/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/kp/Downloads/WS-Final-Project (1)/WS-Final-Project/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/kp/Downloads/WS-Final-Project (1)/WS-Final-Project/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/kp/Downloads/WS-Final-Project (1)/WS-Final-Project/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/kp/Downloads/WS-Final-Project (1)/WS-Final-Project/bin/Debug/net6.0/Microsoft.Extensions.DependencyModel.dll
+/Users/kp/Downloads/WS-Final-Project (1)/WS-Final-Project/bin/Debug/net6.0/Microsoft.Extensions.FileProviders.Embedded.dll
+/Users/kp/Downloads/WS-Final-Project (1)/WS-Final-Project/bin/Debug/net6.0/Microsoft.Extensions.Identity.Core.dll
+/Users/kp/Downloads/WS-Final-Project (1)/WS-Final-Project/bin/Debug/net6.0/Microsoft.Extensions.Identity.Stores.dll
+/Users/kp/Downloads/WS-Final-Project (1)/WS-Final-Project/bin/Debug/net6.0/SQLitePCLRaw.batteries_v2.dll
+/Users/kp/Downloads/WS-Final-Project (1)/WS-Final-Project/bin/Debug/net6.0/SQLitePCLRaw.core.dll
+/Users/kp/Downloads/WS-Final-Project (1)/WS-Final-Project/bin/Debug/net6.0/SQLitePCLRaw.provider.e_sqlite3.dll
+/Users/kp/Downloads/WS-Final-Project (1)/WS-Final-Project/bin/Debug/net6.0/runtimes/alpine-x64/native/libe_sqlite3.so
+/Users/kp/Downloads/WS-Final-Project (1)/WS-Final-Project/bin/Debug/net6.0/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/kp/Downloads/WS-Final-Project (1)/WS-Final-Project/bin/Debug/net6.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/kp/Downloads/WS-Final-Project (1)/WS-Final-Project/bin/Debug/net6.0/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/kp/Downloads/WS-Final-Project (1)/WS-Final-Project/bin/Debug/net6.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/Users/kp/Downloads/WS-Final-Project (1)/WS-Final-Project/bin/Debug/net6.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/kp/Downloads/WS-Final-Project (1)/WS-Final-Project/bin/Debug/net6.0/runtimes/linux-s390x/native/libe_sqlite3.so
+/Users/kp/Downloads/WS-Final-Project (1)/WS-Final-Project/bin/Debug/net6.0/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/kp/Downloads/WS-Final-Project (1)/WS-Final-Project/bin/Debug/net6.0/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/kp/Downloads/WS-Final-Project (1)/WS-Final-Project/bin/Debug/net6.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+/Users/kp/Downloads/WS-Final-Project (1)/WS-Final-Project/bin/Debug/net6.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/kp/Downloads/WS-Final-Project (1)/WS-Final-Project/bin/Debug/net6.0/runtimes/win-arm/native/e_sqlite3.dll
+/Users/kp/Downloads/WS-Final-Project (1)/WS-Final-Project/bin/Debug/net6.0/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/kp/Downloads/WS-Final-Project (1)/WS-Final-Project/bin/Debug/net6.0/runtimes/win-x64/native/e_sqlite3.dll
+/Users/kp/Downloads/WS-Final-Project (1)/WS-Final-Project/bin/Debug/net6.0/runtimes/win-x86/native/e_sqlite3.dll
+/Users/kp/Downloads/WS-Final-Project (1)/WS-Final-Project/obj/Debug/net6.0/Login-1.csproj.AssemblyReference.cache
+/Users/kp/Downloads/WS-Final-Project (1)/WS-Final-Project/obj/Debug/net6.0/Login-1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kp/Downloads/WS-Final-Project (1)/WS-Final-Project/obj/Debug/net6.0/Login-1.AssemblyInfoInputs.cache
+/Users/kp/Downloads/WS-Final-Project (1)/WS-Final-Project/obj/Debug/net6.0/Login-1.AssemblyInfo.cs
+/Users/kp/Downloads/WS-Final-Project (1)/WS-Final-Project/obj/Debug/net6.0/Login-1.csproj.CoreCompileInputs.cache
+/Users/kp/Downloads/WS-Final-Project (1)/WS-Final-Project/obj/Debug/net6.0/Login-1.MvcApplicationPartsAssemblyInfo.cs
+/Users/kp/Downloads/WS-Final-Project (1)/WS-Final-Project/obj/Debug/net6.0/Login-1.MvcApplicationPartsAssemblyInfo.cache
+/Users/kp/Downloads/WS-Final-Project (1)/WS-Final-Project/obj/Debug/net6.0/Login-1.RazorAssemblyInfo.cache
+/Users/kp/Downloads/WS-Final-Project (1)/WS-Final-Project/obj/Debug/net6.0/Login-1.RazorAssemblyInfo.cs
+/Users/kp/Downloads/WS-Final-Project (1)/WS-Final-Project/obj/Debug/net6.0/staticwebassets.build.json
+/Users/kp/Downloads/WS-Final-Project (1)/WS-Final-Project/obj/Debug/net6.0/staticwebassets.development.json
+/Users/kp/Downloads/WS-Final-Project (1)/WS-Final-Project/obj/Debug/net6.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/kp/Downloads/WS-Final-Project (1)/WS-Final-Project/obj/Debug/net6.0/scopedcss/bundle/Login-1.styles.css
+/Users/kp/Downloads/WS-Final-Project (1)/WS-Final-Project/obj/Debug/net6.0/scopedcss/projectbundle/Login-1.bundle.scp.css
+/Users/kp/Downloads/WS-Final-Project (1)/WS-Final-Project/obj/Debug/net6.0/Login-1.csproj.CopyComplete
+/Users/kp/Downloads/WS-Final-Project (1)/WS-Final-Project/obj/Debug/net6.0/Login-1.dll
+/Users/kp/Downloads/WS-Final-Project (1)/WS-Final-Project/obj/Debug/net6.0/refint/Login-1.dll
+/Users/kp/Downloads/WS-Final-Project (1)/WS-Final-Project/obj/Debug/net6.0/Login-1.pdb
+/Users/kp/Downloads/WS-Final-Project (1)/WS-Final-Project/obj/Debug/net6.0/Login-1.genruntimeconfig.cache
+/Users/kp/Downloads/WS-Final-Project (1)/WS-Final-Project/obj/Debug/net6.0/ref/Login-1.dll
